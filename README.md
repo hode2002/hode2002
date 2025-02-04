@@ -1,5 +1,4 @@
 # Hello World!, Tôi là Hồ Văn Dễ, một lập trình viên👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hvd.070602) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hvd07062002@gmail.com) 
