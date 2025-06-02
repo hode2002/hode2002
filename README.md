@@ -46,13 +46,20 @@
 
 ###
 
+<div align="left">
+  <h3>👨‍💻 About Me</h3>
+  <p>I'm a Full Stack Developer passionate about building scalable and efficient web applications. With experience in TypeScript, React, and NestJS, I focus on creating clean, maintainable, and performant solutions.</p>
+</div>
+
+###
+
 <img align="right" height="150" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"  />
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hode2002&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=hode2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=hode2002&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -62,7 +69,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hode2002/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/hode2002/count.svg"  />
 </div>
 
 ###
